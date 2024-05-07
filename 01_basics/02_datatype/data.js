@@ -11,7 +11,7 @@
 
 let name = "Akash"
 let age = 18
-let isLoggedIn = false
+let isLoggedIn = null
 
 
 // number = 2 the power 53
