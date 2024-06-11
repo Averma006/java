@@ -33,12 +33,12 @@ let negValue = -value
 //console.log(2/97);
 //console.log(345/897);
 
-//console.log(1 + 3 + "4");
-//console.log("2" + "4" + 8 );
-//console.log(6789 + 234567 + "346789");
-//console.log( (3 + 5) / (6 % 3) );
-//console.log(+true)
-//console.log(+"")
+console.log(1 + 3 + "4");
+console.log("2" + "4" + 8 );
+console.log(6789 + 234567 + "346789");
+console.log( (3 + 5) / (6 % 3) );
+console.log(+true)
+console.log(+"")
 
 let gameCounter = 100
 gameCounter++

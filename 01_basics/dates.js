@@ -15,5 +15,10 @@ let calendar = new Date(2024, 6, 6, 5, 9)
 
 
 const newDate = new Date(2024, 4, 3, 4)
-console.log(newDate.toLocaleString())
+//console.log(newDate.toLocaleString())
+
+
+
+let nayaDate = new Date(2024, 12, 4)
+console.log(nayaDate.toDateString)
 

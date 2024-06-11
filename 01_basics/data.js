@@ -22,7 +22,6 @@ let isLoggedIn = null
 //null = standalone value hai 
 // empty space baataa hai value zero nahi hai lekin usme kuch value bhi nahi hai 
 // jaise maths ka null matrix mai hota tha value hai lekin 0 nahi hai 
-
 //undefined = variable ka value entered nahi hai
 //symbol = unique
 

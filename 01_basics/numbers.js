@@ -35,7 +35,7 @@ const hundreds = 100000000
 //console.log(Math.ceil(3.1))
 //console.log(Math.floor(3.9))
 
-console.log((Math.random()* 10 ) + 1)
+//console.log((Math.random()* 10 ) + 1)
 
 const min = 10
 const max = 20
@@ -45,4 +45,8 @@ const max = 20
 
 const anothermin = 0
 const anothermax = 2000
-console.log((Math.floor(Math.random() * (anothermax - anothermin + 1))) + anothermin)
+//console.log((Math.floor(Math.random() * (anothermax - anothermin + 1))) + anothermin)
+
+
+let newprice = "29837.890"
+console.log(newprice.t)
